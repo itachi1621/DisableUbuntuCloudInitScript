@@ -1,4 +1,4 @@
-# DisableUbuntuCloudInitScript
+# Disable Ubuntu Cloud Init Script
 Script stops/disables cloud init from starting
 
 ## What it does
